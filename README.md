@@ -4,7 +4,7 @@
 
 <p align="left">
   🚀 <strong>Mid-Level Full-Stack Software Engineer</strong><br>
-  💡 Building scalable web & mobile applications with clean architecture, strong typing, and end-to-end ownership.
+  💡 Building scalable web & mobile applications with <strong>TypeScript, Node.js, Java, and React</strong>.
 </p>
 
 <p align="left">
@@ -25,8 +25,8 @@
 
 Mid-Level Full-Stack Developer experienced in designing, building, and maintaining production-grade systems from database modeling to responsive user interfaces.
 
-* 🔭 **Core Stack:** TypeScript, Node.js, React, Next.js, and React Native.
-* ⚙️ **Backend & Integrations:** RESTful APIs, third-party API synchronization, relational/NoSQL databases, and containerization with Docker.
+* 🔭 **Core Stack:** TypeScript, Node.js, Java (Spring), React, Next.js, and React Native.
+* ⚙️ **Backend & Integrations:** RESTful APIs, microservices, third-party API synchronization, relational/NoSQL databases, and containerization with Docker.
 * 🧱 **Engineering Mindset:** Focused on Clean Code, SOLID principles, data integrity, and delivering maintainable solutions that solve real business problems.
 * 🤝 **Status:** Open to challenging Mid-Level Full-Stack, Back-end, or Front-end opportunities.
 
@@ -43,10 +43,10 @@ Mid-Level Full-Stack Developer experienced in designing, building, and maintaini
 **Back-end & Languages**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Databases & ORMs**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,4 +61,3 @@ Mid-Level Full-Stack Developer experienced in designing, building, and maintaini
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
