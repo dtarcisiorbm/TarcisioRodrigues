@@ -62,9 +62,3 @@ Mid-Level Full-Stack Developer experienced in designing, building, and maintaini
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dtarcisiorbm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Tarcisio's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtarcisiorbm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
