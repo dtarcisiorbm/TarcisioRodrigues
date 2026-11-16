@@ -1,69 +1,82 @@
-<img src="https://i.postimg.co/g244Gv65/tarcisio-professional-headshot.png" width="300px" align="right" alt="Tarcisio Rodrigues - Mid-Level Full-Stack Developer">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380px" align="right" alt="Coding Animation">
 
-<h1 align="left">Hi there, I'm Tarcisio Rodrigues 👋</h1>
+<h1 align="left">Hi, I'm Tarcisio Rodrigues 👋</h1>
 
 <p align="left">
-  🚀 <strong>Software Engineer & Mid-Level Full-Stack Developer</strong><br>
-  💡 Focused on clean architecture, scalability, and delivering efficient end-to-end solutions.
+  🚀 <strong>Mid-Level Full-Stack Software Engineer</strong><br>
+  💡 Building scalable web & mobile applications with clean architecture, strong typing, and end-to-end ownership.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tarcisio-rodrigues-201263222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tarcisiorodrigues674@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-✨ Developer with solid experience in creating robust web and mobile applications.
-Specialized in the **Node.js/TypeScript** and **React/Next.js** ecosystem, with a strong focus on modern architectures, RESTful APIs, microservices, and continuous integration.
-Always dedicated to code best practices (Clean Code, SOLID) and generating real business impact through technology.
+Mid-Level Full-Stack Developer experienced in designing, building, and maintaining production-grade systems from database modeling to responsive user interfaces.
 
-🔍 **Open to new opportunities** and challenges in high-complexity projects (Back-end, Front-end, and Mobile).
+* 🔭 **Core Stack:** TypeScript, Node.js, React, Next.js, and React Native.
+* ⚙️ **Backend & Integrations:** RESTful APIs, third-party API synchronization, relational/NoSQL databases, and containerization with Docker.
+* 🧱 **Engineering Mindset:** Focused on Clean Code, SOLID principles, data integrity, and delivering maintainable solutions that solve real business problems.
+* 🤝 **Status:** Open to challenging Mid-Level Full-Stack, Back-end, or Front-end opportunities.
 
 ---
 
-## 🛠️ Technologies & Stack
+### 🛠️ Tech Stack
 
-### 🌍 Front-end & Mobile
+**Front-end & Mobile**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### ⚙️ Back-end
+**Back-end & Languages**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### 🗄️ Database & Architecture
+**Databases & ORMs**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### ☁️ DevOps, Cloud & Tools
+**DevOps, Cloud & Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 Featured Projects
+
+> *Tip for recruiters: Check out my pinned repositories below for architecture and code quality samples.*
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Project Name 1](https://github.com/SEU_USUARIO_GITHUB/repo-1)** | Scalable REST API with authentication, external service integration, and automated validation. | `Node.js` `TypeScript` `PostgreSQL` `Docker` |
+| **[Project Name 2](https://github.com/SEU_USUARIO_GITHUB/repo-2)** | Full-stack management dashboard with real-time filtering, reporting, and clean UI. | `React` `Next.js` `TypeScript` `Prisma` |
+| **[Project Name 3](https://github.com/SEU_USUARIO_GITHUB/repo-3)** | Cross-platform mobile application integrated with cloud backend services. | `React Native` `TypeScript` `Node.js` |
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarcisiorodrigues674&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tarcisio's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiorodrigues674&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📬 Hire Me & Connect
-
-<p align="left">
-  <a href="mailto:tarcisiorodrigues674@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/tarcisio-rodrigues-201263222/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
